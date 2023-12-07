@@ -67,8 +67,27 @@ id | department | hired
 Add the following to your solution to make it more robust:
 - Host your architecture in any public cloud (using the services you consider more
 adequate)
+
+
 - Add automated tests to the API
     - You can use whichever library that you want
     - Different tests types, if necessary, are welcome
 - Containerize your application
     - Create a Dockerfile to deploy the package
+
+# Solution
+
+- The solution that I propose considers the following software stack and resources:
+    - Visual Studio 2022 Community
+    - SQL Server Expres 2019 (could be 2022)
+    - SQL Server Management Studio
+    - C#
+    - .NET 7 (Some packages like ORMs, Csv Readers/Uploaders.
+ 
+    - For the deployment i have sent to the recruiter a personal message 
+        with instructions to log in to a VMWare Virtual Machine hosted in
+         my server so he can test the solution by himself if needed.
+
+  If any questions, email me: bryan.meza.vejares@outlook.com
+
+¡Enjoy!
