@@ -17,6 +17,9 @@ builder.Services.AddDbContext<GlobantChallengeContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("GlobantChallengeConnection"))
 ); // Este es el string de coneccion que apunta a appsettings
 
+builder.Services.AddScoped<IRepository<Department>, DepartmentRepository>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
