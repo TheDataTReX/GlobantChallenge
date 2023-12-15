@@ -93,7 +93,7 @@ adequate)
 
   If any questions, email me: bryan.meza.vejares@outlook.com
 
-  #Other projects that I share publicly but i still own
+# Other projects that I share publicly but i still own
 
       - Power BI Report 1: https://app.powerbi.com/view?r=eyJrIjoiNDUxOTY3YTItYjVhMS00MzE4LWI1YTAtMThlYzQ0MGE5NzkwIiwidCI6IjdhYjI4NGJkLTVhZGMtNDQxMS04NWJkLWNlMWY3ZTQwYzgzNSJ9&pageName=ReportSection
       - Power BI Report 2: https://app.powerbi.com/view?r=eyJrIjoiMGIyNTlkOTAtOTBmZi00MmYyLWJlMDktMTViZmNiZDNkZGIwIiwidCI6IjdhYjI4NGJkLTVhZGMtNDQxMS04NWJkLWNlMWY3ZTQwYzgzNSJ9&pageName=ReportSection
