@@ -75,7 +75,7 @@ adequate)
 - Containerize your application
     - Create a Dockerfile to deploy the package
 
-# Solution
+##### Solution
 
 - The solution that I propose considers the following software stack and resources:
     - Visual Studio 2022 Community
