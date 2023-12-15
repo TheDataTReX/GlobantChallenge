@@ -79,7 +79,7 @@ adequate)
 
 - The solution that I propose considers the following software stack and resources:
     - Visual Studio 2022 Community
-    - SQL Server Expres 2019 (could be 2022)
+    - SQL Server Express 2019 (could be 2022)
     - SQL Server Management Studio
     - C#
     - .NET 7 (Some packages like ORMs, Csv Readers/Uploaders.
@@ -88,6 +88,20 @@ adequate)
         with instructions to log in to a VMWare Virtual Machine hosted in
          my server so he can test the solution by himself if needed.
 
+      - I have created a public Power BI that gets the data in the SQL Server Express 2019 database "GlobantChallenge".
+          - There are many upgrades we can add. For example, blank data should have a proper solution. I'm looking for the best aproach.
+
   If any questions, email me: bryan.meza.vejares@outlook.com
+
+  #Other projects that I share publicly but i still own
+
+      - Power BI Report 1: https://app.powerbi.com/view?r=eyJrIjoiNDUxOTY3YTItYjVhMS00MzE4LWI1YTAtMThlYzQ0MGE5NzkwIiwidCI6IjdhYjI4NGJkLTVhZGMtNDQxMS04NWJkLWNlMWY3ZTQwYzgzNSJ9&pageName=ReportSection
+      - Power BI Report 2: https://app.powerbi.com/view?r=eyJrIjoiMGIyNTlkOTAtOTBmZi00MmYyLWJlMDktMTViZmNiZDNkZGIwIiwidCI6IjdhYjI4NGJkLTVhZGMtNDQxMS04NWJkLWNlMWY3ZTQwYzgzNSJ9&pageName=ReportSection
+
+      - Personal repository with my Projects: https://xerevro-my.sharepoint.com/:f:/p/bryan_meza/Etlk9vlrBaBHmZ3CuvKOWhABcnqYCiiUbTS2r9_0XWzMJQ?e=FmdXpd
+          - Here you can find my projects. I have worked with Python, Juypter, Spyder, Apache Software (Spark, Hive, Impala, Hadoop, Flink, Flume, Hbase, Kafka, Airflow...), Power BI,
+            Tableau, Looker Studio, SQL Server (all "flavors"), BigQuery, Databricks, Azure (all Azure Data Engineering Solutions mostly), Google Cloud Platform Data Solutions and Kubernets,
+            Amazon Web Services (mostly S3, redshift, DW,Step Functions and Lambda Functions, AWS Fargate, Cloudfront). I have more proyects but i only show them in the interview process because of
+            the complexity.
 
 ¡Enjoy!
